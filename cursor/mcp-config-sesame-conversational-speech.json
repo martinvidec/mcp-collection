@@ -1,6 +1,6 @@
 {
     "mcpServers": {
-        "sesame": {
+        "sesame-doc": {
             "url": "https://gitmcp.io/SesameAILabs/csm"
         }
     }
